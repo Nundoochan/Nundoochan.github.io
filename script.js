@@ -6,71 +6,31 @@ document.addEventListener("DOMContentLoaded", (e) => {
 	const cards = [
 		[
 			{
-				name: "00000001",
-				img: "images/GOOD/00000001/00000001.png",
+				name: "pizza";
+				img: "images/pizza.png";
 			},
 			{
-				name: "00000010",
-				img: "images/GOOD/00000010/00000010.png",
+				name: "milkshake";
+				img: "images/milkshake.png";
 			},
 			{
-				name: "00000100",
-				img: "images/GOOD/00000100/00000100.png",
-			},
-			{
-				name: "00001000",
-				img: "images/GOOD/00001000/00001000.png",
-			},
-			{
-				name: "00010000",
-				img: "images/GOOD/00010000/00010000.png",
-			},
-			{
-				name: "00100000",
-				img: "images/GOOD/00100000/00100000.png",
-			},
-			{
-				name: "01000000",
-				img: "images/GOOD/01000000/01000000.png",
-			},
-			{
-				name: "10000000",
-				img: "images/GOOD/10000000/10000000.png",
+				name: "hotdog";
+				img: "images/hotdog.png";
 			},
 		],
 		[
 			{
-				name: "11111110",
-				img: "images/BAD/11111110/11111110.png",
+				name: "cheeseburger";
+				img: "images/cheeseburger.png";
 			},
 			{
-				name: "11111101",
-				img: "images/BAD/11111101/11111101.png",
+				name: "ice-cream";
+				img: "images/ice-cream.png";
 			},
 			{
-				name: "11111011",
-				img: "images/BAD/11111011/11111011.png",
-			},
-			{
-				name: "11110111",
-				img: "images/BAD/11110111/11110111.png",
-			},
-			{
-				name: "11101111",
-				img: "images/BAD/11101111/11101111.png",
-			},
-			{
-				name: "11011111",
-				img: "images/BAD/11011111/11011111.png",
-			},
-			{
-				name: "10111111",
-				img: "images/BAD/10111111/10111111.png",
-			},
-			{
-				name: "01111111",
-				img: "images/BAD/01111111/01111111.png",
-			},
+				name: "fries";
+				img: "images/fries.png";
+			}
 		],
 	];
 	
